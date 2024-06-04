@@ -33,7 +33,7 @@ on:
         required: false
       hide_title_bar:
         description: '[Hide TitleBar, Optional, MacOS only]'
-        required: false
+        required: true
         type: boolean
         default: false
       multi_arch:
